@@ -12,7 +12,7 @@ package org.androidtown.tablayoutexample;
  */
 
 public class Tab1 extends Fragment{
-
+//Tab1 페이지
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
