@@ -15,7 +15,8 @@ import android.view.MenuItem;
 
 public class MainNavigat extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-
+    //네이게이션바
+//초기화면
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
