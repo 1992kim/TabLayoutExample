@@ -11,7 +11,8 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
-
+//구글맵
+// 초기화면
     private GoogleMap mMap;
 
     @Override
