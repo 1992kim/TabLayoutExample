@@ -15,7 +15,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-
+////////용
 public class MainActivity extends AppCompatActivity {
 //메인화면
     /**
